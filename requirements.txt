@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+lightgbm
+streamlit
+matplotlib
+seaborn
+joblib
+pytest
+python-dotenv
+scipy
+pydantic
+requests
+streamlit
+uvicorn
+fastapi
